@@ -3,7 +3,7 @@
 #
 # This file is part of < https://github.com/OGNOBITA12/HYPER_OP > project,
 # and is released under the MIT License.
-# Please see < https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/OGNOBITA12/HYPER_OP/blob/master//LICENSE >
 #
 # All rights reserved.
 
